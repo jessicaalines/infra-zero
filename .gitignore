@@ -1,0 +1,10 @@
+# Arquivos e diretórios locais do Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+override.tf
+override.tfjson
+*.tfvars
+initial_plan
+.terraform.lock.hcl
