@@ -1,4 +1,5 @@
 # Arquivos e diretórios locais do Terraform
+
 .terraform/
 *.tfstate
 *.tfstate.*
